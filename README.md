@@ -1,3 +1,4 @@
 # Graphic-Design
 It is the process of visual communication and problem- solving through the use of typography and illustration.this field is considerd a subset of visual communication and communication design. 
-Graphic designers create and combine symbols, images and text to form visual representations of ideas and messages
+Graphic designers create and combine symbols, images and text to form visual representations of ideas and messages.
+A graphic design project may involve the stylization and presentation of existing text and either preexisting imagery or images developed by the graphic designer. Elements can be incorporated in both traditional and digital form, which involves the use of visual arts, typography, and page layout techniques. Graphic designers organize pages and optionally add graphic elements. Graphic designers can commission photographers or illustrators to create original pieces. Designers use digital tools, often referred to as interactive design, or multimedia design. Designers need communication skills to convince an audience and sell their designs.
